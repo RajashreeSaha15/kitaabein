@@ -36,10 +36,10 @@ import HA1 from "../assets/HA1.png"
 import HA2 from "../assets/HA2.png"
 import HA3 from "../assets/HA3.png"
 
-import L from "../assets/London.jpg"
-import T from "../assets/Tokyo.jpg"
-import N from "../assets/New York.jpg"
-import S from "../assets/Sydney.jpg"
+import A from "../assets/Ahmedabad.jpg"
+import C from "../assets/Chandigarh.jpg"
+import I from "../assets/Indore.jpg"
+import N from "../assets/Nagpur.jpg"
 import A1 from "../assets/A1.png"
 import A2 from "../assets/A2.png"
 import A3 from "../assets/A3.png"
@@ -378,14 +378,14 @@ export const apstats = [
 ]
 
 export const apteamMembers = [
-  { id: 1, name: "Sarah Johnson", position: "CEO & Founder", image: A1 },
-  { id: 2, name: "Michael Chen", position: "CTO", image: A2 },
-  { id: 3, name: "Emma Williams", position: "Head Editor", image: A3 }
+  { id: 1, name: "Priya Sharma", position: "CEO & Founder", image: A1 },
+  { id: 2, name: "Rohan Kapoor", position: "CTO", image: A2 },
+  { id: 3, name: "Neha Desai", position: "Head Editor", image: A3 }
 ]
 
 export const apbranches = [
-  { location: "New York", hours: "9AM - 9PM", image: N },
-  { location: "London", hours: "8AM - 8PM", image: L },
-  { location: "Tokyo", hours: "10AM - 10PM", image: T },
-  { location: "Sydney", hours: "8AM - 8PM", image: S }
+  { location: "Ahmedabad", hours: "9AM - 9PM", image: A },
+  { location: "Chandigarh", hours: "8AM - 8PM", image: C },
+  { location: "Indore", hours: "10AM - 10PM", image: I },
+  { location: "Nagpur", hours: "8AM - 8PM", image: N }
 ]
